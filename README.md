@@ -6,6 +6,7 @@
 - S01E03 - Lesly Zerna | Bolivia
 - S01E04 - Jose Dimas Luján | México
 - S01E05 - Anahí Salgado | México
+- S01E06 - Leonidas Esteban | México
 
 
 
