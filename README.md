@@ -8,10 +8,8 @@
 - S01E05 - Anahí Salgado | México
 - S01E06 - Leonidas Esteban | México
 - S01E07 - 
-
-
-
-
+- S01E08 -
+- S01E09 - 
 - 
 
 
